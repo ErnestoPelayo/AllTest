@@ -1,6 +1,6 @@
 package packageAllTest;
 
-public class Other {
+public class Main {
 
     Cuadrado obj=new Cuadrado();
 
