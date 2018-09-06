@@ -2,9 +2,12 @@ package packageAllTest;
 
 public class Other {
 
-    public static void main(String args[]){
+    Cuadrado obj=new Cuadrado();
+
+    public void main(String args[]){
 
         System.out.println("Hola mundo!!");
+        obj.calcularArea(3);
     }
 
 }
