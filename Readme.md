@@ -11,7 +11,6 @@ Así se crean secciones y subsecciones. Para crear una enumeración utilizamos:
 + Elemento 2
 + Elemento 3
 
-
 Conversions
 ===========
 
@@ -19,16 +18,14 @@ Conversions
 
 + 1.- Install jdk, if you already have it skip this step.
 
-  **    sudo apt-get install default-jdk	**
-
+      **sudo apt-get install default-jdk**
+      
 
 + 2.- We compile the file as follows.
 
-      javac namefile.java
-      
+      **javac namefile.java**
+
 
 + 3.- We execute the program.
 
-      java namefile namefile.java
-    
-
+      **java namefile namefile.java**
