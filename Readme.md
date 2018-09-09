@@ -15,11 +15,11 @@ Así se crean secciones y subsecciones. Para crear una enumeración utilizamos:
 Conversions
 ===========
 
-Instructions to compile a java program from the terminal.
+**Instructions to compile a java program from the terminal.**
 
 + 1.- Install jdk, if you already have it skip this step.
 
-  |    sudo apt-get install default-jdk			|
+  **    sudo apt-get install default-jdk	**
 
 
 + 2.- We compile the file as follows.
