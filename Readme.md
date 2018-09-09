@@ -14,7 +14,11 @@ Así se crean secciones y subsecciones. Para crear una enumeración utilizamos:
 Conversions
 ===========
 
-**Instructions to compile a java program from the terminal.**
+
+Ejemplos de markdown
+--------------------
+Instructions to compile a java program from the terminal.
+---------------------------------------------------------
 
 + 1.- Install jdk, if you already have it skip this step.
 
