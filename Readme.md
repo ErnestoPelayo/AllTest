@@ -3,7 +3,7 @@ Conversions
 
 Instructions to compile a java program from the terminal using linux.
 
-INSTRUCTIONS
+Instructions
 ------------
 
 + 1.- Install jdk, if you already have it skip this step.
