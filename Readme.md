@@ -1,5 +1,5 @@
-Conversions
-===========
+JAVA
+====
 
 Instructions to compile a java program from the terminal using linux.
 
