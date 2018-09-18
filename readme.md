@@ -2,6 +2,10 @@ Erlang
 ======
 % Signo de porcentaje inicia un comentario de una línea.
 
+
+**Hola = hola.
+OtherNode = ejemplo @ nodo.**
+
 %% Se usarán dos por ciento de caracteres para comentar funciones.
 
 %%% Se usarán tres por ciento de caracteres para comentar los módulos.
