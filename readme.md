@@ -7,7 +7,7 @@ translators:
   - ["Ernesto Pelayo", "http://github.com/ErnestoPelayo"]
 filename: learnerlang.erl
 ---
-# Erlang prueba
+# Erlang
 
 
 % Signo de porcentaje inicia un comentario de una línea.
@@ -53,14 +53,19 @@ Pi = 3.14159.
 % Átomos comienza con letras minúsculas, seguido de una secuencia de caracteres
 % alfanuméricos de caracteres o el signo de subrayado (`_`) o en (` @ `).
 
-**Hola = hola.
-OtherNode = ejemplo @ nodo.**
+**Hola = hola.**
+
+**OtherNode = ejemplo @ nodo.**
 
 % Los átomos con valores no alfanuméricos se pueden escribir al encerrar los
 % átomos con apóstrofes.
+
+
 **AtomWithSpace = 'algún átomo con espacio'.**
 
 % Tuples son similares a las estructuras en C.
+
+
 **Point = {point, 10, 45}.**
 
 % Si queremos extraer algunos valores de una tupla, usamos el patrón de coincidencia
@@ -73,10 +78,10 @@ OtherNode = ejemplo @ nodo.**
 % a mismo valor.
 
 
-**Person = {person, {name, {first, joe}, {last, armstrong}}, {footsize, 42}}.
+**Person = {person, {name, {first, joe}, {last, armstrong}}, {footsize, 42}}.**
 
 
-{_, {_, {_, who }, _}, _} = Persona. % Who = joe**
+**{_, {_, {_, who }, _}, _} = Persona. % Who = joe**
 
 % Creamos una lista al encerrar los elementos de la lista entre corchetes y
 % separándolos con comas.
